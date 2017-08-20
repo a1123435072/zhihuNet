@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZhihuTest</string>
+    <string name="scale_behavior">com.itheima.zhihutest.ScaleBehavior</string>
+</resources>
